@@ -1,2 +1,2 @@
 # Air-Conflict-Resolution
-Progetto for Hybrid system: simulation of air-conflict resolution
+Simulation of the paper https://ieeexplore.ieee.org/document/664154
